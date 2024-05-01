@@ -1,0 +1,1 @@
+# Oppgaver-i-Javascript-og-Python-ved-hjelp-av-ChatGPT
